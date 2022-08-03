@@ -34,26 +34,4 @@ function desplegar() {
 }
 
 
-/*
-
-//JS DE FOOTER PRUEBA- INDEX //
-
-//con let decimos que la variable "parrafo" sea el elemento con el ID "parrafoFooter" del HTML
-let parrafo = document.getElementById("parrafoFooter")
-
-//ahora decimos que la propiedad "innerText" del elemento "parrafo" sea igual a "aasdasd" o lo que fuere, variables y/o texto
-parrafo.innerText = "Hacer click para agregar "
-
-
-//fiuncion para agregar un texto al hacer click en el parrafo
-function agregarLetras(){
-    parrafo.innerText = parrafo.innerHTML + "una esto +, "
-}
-
-Estoy jugando con JS, mas que nada quiero hacer que el footer, la descripcion de abajo valla apareciendo,a medida que el mouse pasa por la pantalla.
-y el mismo funcione en el resto.
-*/
-
-
-
 
