@@ -79,3 +79,5 @@ function soltado3(e){
 function reinicio() {
     window.location.reload();
 }
+
+iniciar()
